@@ -35,6 +35,9 @@ I will be happy for any contribution or help. Also, I'm open to an invitation to
 <img src="https://images.unsplash.com/photo-1568322503882-d119ddcb1c93?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2695&q=80">
 [A local in traditional Peruvian clothing] Photo by Alex Azabache on Unsplash (https://unsplash.com/photos/pEZBGHsz7XI)
 
+
+## How to write code?
+
 This is how you create code examples:
 ```
 def main():
