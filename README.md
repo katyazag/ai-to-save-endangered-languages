@@ -1,33 +1,39 @@
 
-# Project Title
+# AI To Save Endangered Languages
 
-Final project for the Building AI course
+Final Building AI course project
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+The project aims to explore AI methods and create tools to preserve and revival languages of endangered nations and ethnic minorities. This is an attempt to save the world’s cultural diversity.
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Language is an essential part of any culture. With the help of language, people preserve their history, customs, and traditions, transmit knowledge and unique ways of thinking. There are about 7,000 languages globally, but about 43% of them are endangered or about to be extinct. Many of these languages are disappearing at an alarming rate as communities that speak them face assimilation, poverty, educational disadvantage, and migration. Younger generations prefer languages that they consider more modern to get an education and build a good career.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Many of these languages are spoken by indigenous peoples, and they are disappearing at an alarming rate. There are also many dead languages that no one speaks anymore. Given the complex systems of knowledge and culture that these local languages have developed and accumulated over thousands of years, their disappearance means losing a kind of cultural treasure.
+
+The problems we face:
+* lost of cultural heritage
+* lost of unique modes of thinking, meaning and expression
+* lost of cultural diversity
+
+Some of the problems that ethnic minorities face:
+* limited access to information
+* lack of education in the native language
+* lack of highly qualified job
+* limited opportunities to express freely thought, opinion, and expression
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Some examples of the sucessful projects you can find in the article "EMBRACING ARTIFICIAL INTELLIGENCE TO PRESERVE DYING LANGUAGES".
+https://www.fairplanet.org/story/embracing-artificial-intelligence-to-preserve-dying-languages/
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+I will be happy for any contribution or help. Also, I'm open to an invitation to participate in a project with the same field of interest.
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+![A local in traditional Peruvian clothing] 
+<img src="https://images.unsplash.com/photo-1568322503882-d119ddcb1c93?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2695&q=80">
 
 This is how you create code examples:
 ```
@@ -49,7 +55,7 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+Leave some notes where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
 
@@ -60,17 +66,20 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+At this stage, the project does not have a specific goal. It could be ML technology that provides effective storage and processing of data and identifying patterns to understand the structure of the language. It could be a platform that allows us to learn endangered languages and practice them with other people. The aim is to save cultural heritage.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+For this project, we need:
 
+* people who are interested in the subject
+* linguists
+* historians 
+* software engineers
+* data engineers
+* AI consultants
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* "The role of the language" https://en.iyil2019.org/role-of-language/
+* "Embracing Artifitial Intelligence to Preserve Dying Languages" https://www.fairplanet.org/story/embracing-artificial-intelligence-to-preserve-dying-languages/
