@@ -13,7 +13,7 @@ Language is an essential part of any culture. With the help of language, people 
 
 Many of these languages are spoken by indigenous peoples, and they are disappearing at an alarming rate. There are also many dead languages that no one speaks anymore. Given the complex systems of knowledge and culture that these local languages have developed and accumulated over thousands of years, their disappearance means losing a kind of cultural treasure.
 
-The problems we face:
+The tragic consequence of languages extinction:
 * lost of cultural heritage
 * lost of unique modes of thinking, meaning and expression
 * lost of cultural diversity
@@ -32,8 +32,8 @@ https://www.fairplanet.org/story/embracing-artificial-intelligence-to-preserve-d
 
 I will be happy for any contribution or help. Also, I'm open to an invitation to participate in a project with the same field of interest.
 
-![A local in traditional Peruvian clothing] 
 <img src="https://images.unsplash.com/photo-1568322503882-d119ddcb1c93?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2695&q=80">
+[A local in traditional Peruvian clothing] Photo by Alex Azabache on Unsplash (https://unsplash.com/photos/pEZBGHsz7XI)
 
 This is how you create code examples:
 ```
